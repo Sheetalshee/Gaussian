@@ -46,7 +46,7 @@ for i in range (n-2,-1,-1):
     x[i] = x[i]/a[i][i]
 for i in range (n): 
     print("X%d = %0.2f " %(i,x[i]) , end = "")
-
+```
 ## Output:
 ![image](https://github.com/Sheetalshee/Gaussian/assets/144979107/8c7bb605-2fa9-4823-a3e5-a470a2d52727)
 
